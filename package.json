@@ -1,0 +1,26 @@
+{
+  "name": "co-learn",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD ======= # co-learn >>>>>>> 85a220345ec409abafb3ee1a739f1ad4a56c1f4d # co-learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itper/co-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itper/co-learn/issues"
+  },
+  "homepage": "https://github.com/itper/co-learn#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-1": "^6.13.0",
+    "babel-preset-stage-2": "^6.13.0",
+    "babel-preset-stage-3": "^6.11.0"
+  }
+}
